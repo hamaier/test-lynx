@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
-include: README.md
+include:
+  - README.md
+relative_links:
+  enabled: true
+  collections: true
