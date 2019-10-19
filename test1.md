@@ -1,2 +1,2 @@
 # heading
-just some text [link](REAMME.html)
+just some text [link](README.html)
